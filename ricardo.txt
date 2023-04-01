@@ -1,0 +1,34 @@
+   01/03        basico html e css estrutura semãntica
+
+ logo < menu= nav
+
+cabeçario=header
+------------------------ conteiner
+  section ou div 
+ 
+ section ou div 
+                                       
+ section ou div                        |
+                                       |80% no css
+   site=conteúdo=div container main    |
+
+footer=roda pé
+----------------------container
+
+<nav>
+    <h1>Javascript
+
+    <ol> é lista ordenada ___________________________
+    <ul>uma lista não ordenada_________________-    |
+    <li>apenas uma lista                            1ricardo
+                                                    2lawri
+
+
+
+
+
+
+
+tr- linha "title"
+th- coluna 
+td- linha linha embaixo
